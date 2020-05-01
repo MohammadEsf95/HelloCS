@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloCS</string>
+    <string name="helloCsFa">سلام سی اس :)</string>
+    <string name="helloCsEn">HelloCs :)</string>
+</resources>
